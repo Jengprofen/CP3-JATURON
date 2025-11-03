@@ -1,1 +1,6 @@
-# CP3-JATURON
+Number1 = int(input("กรอกตัวเลขตัวแรก = "))
+Number2 = int(input("กรอกตัวเลขตัวที่สอง = "))
+print(Number1,"+",Number2,"=",Number1+Number2)
+print(Number1,"-",Number2,"=",Number1-Number2)
+print(Number1,"*",Number2,"=",Number1*Number2)
+print(Number1,"/",Number2,"=",Number1/Number2)
